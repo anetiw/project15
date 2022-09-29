@@ -1,0 +1,40 @@
+main{
+    padding-top: 211px;
+    padding-left: 130px;
+}
+.part1{
+    width: 50%;
+}
+p{
+    margin: 0px;
+}
+hr{
+    border: 1px solid #CDD2D5;
+    background-color: #CDD2D5;
+}
+.text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.2em;
+    opacity: 0.6;
+}
+a{
+    text-decoration: none;
+    display: flex;
+}
+.annex{
+    margin-left: 12px;
+    margin-top: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: #232323;
+}
+.logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
